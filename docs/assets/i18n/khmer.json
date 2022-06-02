@@ -1,0 +1,51 @@
+{
+  "data": {
+    "account": {
+      "account": "គណនី"
+    },
+    "general": {
+      "copyright": "&copy;"
+    },
+    "loginPage": {
+      "login": "ចូល",
+      "logout": "ចាកចេញ",
+      "register": "ចុះឈ្មោះ",
+      "forgotPassword": "ភ្លេច​លេខសំងាត់​?"
+    },
+    "services": {
+      "micro-service": "សេវាមីក្រូ",
+      "services": "សេវាកម្ម",
+      "plans": "ផែនការ",
+      "products": "ផលិតផល"
+    },
+    "signupPage": {
+      "signup": "ចុះ​ឈ្មោះ",
+      "address": "អាសយដ្ឋាន",
+      "username": "ឈ្មោះ​អ្នកប្រើប្រាស់",
+      "street1": "អាស័យដ្ឋានផ្លូវ 1",
+      "street2": "អាស័យដ្ឋានផ្លូវ 2",
+      "zip": "លេខ​កូដ​តំបន់",
+      "country": "ប្រទេស",
+      "phones": "ទូរស័ព្ទ",
+      "phoneNumber": "លេខទូរសព្ទ",
+      "phoneType": "ប្រភេទទូរស័ព្ទ",
+      "countryCode": "លេខ​កូដ​ប្រទេស",
+      "email": "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល",
+      "firstName": "ឈ្មោះដំបូង",
+      "lastName": "នាមត្រកូល",
+      "dob": "ថ្ងៃខែ​ឆ្នាំ​កំណើត",
+      "day": "ថ្ងៃ",
+      "month": "ខែ",
+      "year": "ឆ្នាំ",
+      "gender": "ភេទ"
+    },
+    "headerPage": {
+      "products": "ផលិតផល",
+      "contactUs": "ទាក់ទង​មក​ពួក​យើង"
+    },
+    "footerPage": {
+      "contactUs": "ទាក់ទង​មក​ពួក​យើង"
+    }
+  }
+}
+

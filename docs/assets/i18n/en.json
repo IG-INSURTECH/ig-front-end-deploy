@@ -1,0 +1,53 @@
+{
+  "data": {
+    "account": {
+      "account": "account"
+    },
+    "general": {
+      "copyright": "copyright"
+    },
+    "symbols": {
+      "copyright": "&copy;"
+    },
+    "loginPage" : {
+      "login": "login",
+      "logout": "logout",
+      "register": "register",
+      "forgotPassword": "forgot password?"
+    },
+    "services": {
+      "micro-service": "micro service",
+      "services": "services",
+      "plans": "plans",
+      "products": "products"
+    },
+    "signupPage": {
+      "signup": "sign up",
+      "address": "address",
+      "username": "username",
+      "street1": "street address 1",
+      "street2": "street address 2",
+      "zip": "zip code",
+      "country": "country",
+      "phones": "phones",
+      "phoneNumber": "phone number",
+      "phoneType": "phone type",
+      "countryCode": "country code",
+      "email": "email address",
+      "firstName": "first name",
+      "lastName": "last name",
+      "dob": "date of birth",
+      "day": "day",
+      "month": "month",
+      "year": "year",
+      "gender": "gender"
+    },
+    "headerPage": {
+      "products": "products",
+      "contactUs": "contact us"
+    },
+    "footerPage": {
+      "contactUs": "contact us"
+    }
+  }
+}
